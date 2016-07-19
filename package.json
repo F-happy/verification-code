@@ -1,0 +1,22 @@
+{
+  "name": "verification-code",
+  "version": "1.0.0",
+  "description": "这是一个前端生成验证码的工具，用于客户端中的。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-happy/verification-code.git"
+  },
+  "keywords": [
+    "verification"
+  ],
+  "author": "jonnyf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-happy/verification-code/issues"
+  },
+  "homepage": "https://github.com/F-happy/verification-code#readme"
+}

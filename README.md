@@ -1,4 +1,7 @@
 # verification-code
+[![npm](https://img.shields.io/npm/v/verification-code.svg?style=flat-square)](https://www.npmjs.com/package/nuts-scss)
+[![npm](https://img.shields.io/npm/l/verification-code.svg?style=flat-square)](https://www.npmjs.com/package/nuts-scss)
+[![npm](https://img.shields.io/npm/dt/verification-code.svg?style=flat-square)](https://www.npmjs.com/package/verification-code)
 > 前端随机生成验证码的小工具, 利用了前端中的 canvas 画布来进行数字的展示。
 
 
